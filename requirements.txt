@@ -1,0 +1,60 @@
+* Dapat Menampilkan HALAMAN Depan 
+Halaman Depan yang berisi kelas, informasi yang ditampilkan adalah :
+** Dapat Menampilkan kelas
+*** Field dari Mode Pembelajaran : 
+    **** Kode kelas
+    **** Nama kelas
+** Dapat Menampilkan Mode Pembelajaran
+*** Field dari Mode Pembelajaran
+    **** Kode Mode Pembelajaran
+    **** Nama Mode Pembelajaran
+    ****
+
+* Dapat Menampilkan  HALAMAN List Of Mata Pelajaran
+Halaman List Of Mata Pelajaran, informasi yang ditampilkan adalah :
+** Dapat Menampilkan List Of Mata Pelajaran
+*** Field dari Mata Pelajaran
+    **** Kode Mata Pelajaran
+    **** Nama Mata Pelajaran
+
+* Dapat Menampilkan  HALAMAN List Of BAB
+Halaman List Of BAB, informasi yang ditampilkan adalah :
+** Dapat Menampilkan BAB
+*** Field dari BAB
+    **** Kode Bab 
+    **** Jumlah BAB
+    **** Judul BAB
+    **** Thumbnail BAB
+    **** Label sub-bab gratis dengan kode X
+    **** Progress Bar {Total Jumlah Materi Selesai }
+
+* Dapat Menampilkan Halaman list Sub-bab
+ Halaman List Of Sub-bab, informasi yang ditampilkan adalah :
+** Dapat Menampilkan Sub-Bab
+*** Field dari Sub-bab :
+    **** Thumbnail Sub-bab
+    **** Label {gratis, berbayar}
+    **** Progress Bar {Total Jumlah Materi Selesai }
+
+
+* Dapat Menampilkan Halaman list Of Material
+ Halaman list Of Material informasi yang ditampilkan adalah :
+** Dapat Menampilkan materi 
+*** Field dari material :
+    **** Kode Materi
+    **** Tipe Materi
+        ***** Video
+        ***** End Quiz
+        ***** Single Quiz
+        ***** Summary
+    **** List Materi
+    **** Thumbnail Materi
+    **** Nama Materi
+    **** XP
+    **** Gold
+
+
+
+###relasi 
+Kelas -> Mode Pembelajaran  1->1 List Mata Pelajaran 1->M List Of BAB 1->M List of Sub-Bab 1->M List Of Material
+         Mode Pembelajaran  1->M List Mata Pelajaran ->
