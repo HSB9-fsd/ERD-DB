@@ -1,2 +1,37 @@
 @startuml
+
+entity "Users " as user {
+    id_user: int <<PK>><<AI>>
+    __
+    user_name: varchar(255)
+    email:varchar(255)
+    password: varchar(255)
+}
+
+entity "LearningClass" as LC {
+    id_LearningClass : int <<PK>><<AI>>
+    __
+    id_user: int<<FK>>
+    class_name : varchar(255)
+    thumbnail : varchar(50)
+}
+entity "LearningMode" as LM{
+    id_LearningMode : int <<PK>><<AI>>
+    __
+    id_LC : int <<FK>>
+    lm_name : varchar (255)
+}
+
+entity "Subject" as S {
+    id_subject : int <<PK>><<AI>
+    __
+    id_LearningMode : int <<FK>>
+    subject_name : varchar(255)
+
+}
+user ||--|| LC :  "places"
+LC  }|--|| LC : "has"
+LC ||-- LM
+LM ||-- S
+
 @enduml
