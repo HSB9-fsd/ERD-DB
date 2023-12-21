@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="76 51 538 541" width="462px" height="490px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="269" y1="225" x2="279" y2="225" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="416" y1="222" x2="426" y2="222" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="279" y1="225" x2="416" y2="222" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="276.5" y1="225" x2="272.96446609407" y2="228.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="276.5" y1="225" x2="272.96446609407" y2="221.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="421" y1="222" x2="417.46446609407" y2="225.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="421" y1="222" x2="417.46446609407" y2="218.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="403" y1="96" x2="393" y2="96" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="205" y1="101" x2="195" y2="101" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="393" y1="96" x2="205" y2="101" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="395.5" y1="96" x2="399.03553390593" y2="99.535533905933" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="395.5" y1="96" x2="399.03553390593" y2="92.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="200" y1="101" x2="203.53553390593" y2="104.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="200" y1="101" x2="203.53553390593" y2="97.464466094067" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="431" y1="396" x2="421" y2="396" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="231" y1="385" x2="221" y2="385" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="421" y1="396" x2="231" y2="385" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="423.5" y1="396" x2="427.03553390593" y2="399.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="423.5" y1="396" x2="427.03553390593" y2="392.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="226" y1="385" x2="229.53553390593" y2="388.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="226" y1="385" x2="229.53553390593" y2="381.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="91" y1="385" x2="81" y2="385" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="86" y1="225" x2="96" y2="225" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="81" y1="385" x2="86" y2="225" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="83.5" y1="385" x2="87.035533905933" y2="388.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="83.5" y1="385" x2="87.035533905933" y2="381.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="91" y1="225" x2="87.464466094067" y2="228.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="91" y1="225" x2="87.464466094067" y2="221.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="506" y1="222" x2="516" y2="222" style="stroke:#333;stroke-width:1;"/>
+   <line x1="533" y1="96" x2="523" y2="96" style="stroke:#333;stroke-width:1;"/>
+   <line x1="516" y1="222" x2="533" y2="96" style="stroke:#333;stroke-width:1;"/>
+   <line x1="513.5" y1="222" x2="509.96446609407" y2="225.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="513.5" y1="222" x2="509.96446609407" y2="218.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="528" y1="96" x2="531.53553390593" y2="99.535533905933" style="stroke:#333;stroke-width:2;"/>
+   <line x1="528" y1="96" x2="531.53553390593" y2="92.464466094067" style="stroke:#333;stroke-width:2;"/>
+   <rect width="173" height="20" x="96" y="195" style="fill:#007;stroke:black;"/>
+   <text width="173" height="20" x="101" y="209" style="fill:#fff;" font-family="Arial" font-size="16px"> Chapter</text>
+   <rect width="173" height="20" x="96" y="215" style="fill:#aea;stroke:black;"/>
+   <text width="173" height="20" x="101" y="229" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="173" height="20" x="96" y="235" style="fill:none;stroke:black;"/>
+   <text width="173" height="20" x="101" y="249" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="173" height="20" x="96" y="255" style="fill:none;stroke:black;"/>
+   <text width="173" height="20" x="101" y="269" style="fill:black;" font-family="Arial" font-size="16px">thumbnail</text>
+   <rect width="173" height="20" x="96" y="275" style="fill:none;stroke:black;"/>
+   <text width="173" height="20" x="101" y="289" style="fill:black;" font-family="Arial" font-size="16px">freeXSubChapterLabel</text>
+   <rect width="173" height="20" x="96" y="295" style="fill:none;stroke:black;"/>
+   <text width="173" height="20" x="101" y="309" style="fill:black;" font-family="Arial" font-size="16px">ProggressionBar</text>
+   <rect width="91" height="20" x="104" y="71" style="fill:#007;stroke:black;"/>
+   <text width="91" height="20" x="109" y="85" style="fill:#fff;" font-family="Arial" font-size="16px"> Clasess</text>
+   <rect width="91" height="20" x="104" y="91" style="fill:#aea;stroke:black;"/>
+   <text width="91" height="20" x="109" y="105" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="91" height="20" x="104" y="111" style="fill:none;stroke:black;"/>
+   <text width="91" height="20" x="109" y="125" style="fill:black;" font-family="Arial" font-size="16px">class_name</text>
+   <rect width="120" height="20" x="403" y="66" style="fill:#007;stroke:black;"/>
+   <text width="120" height="20" x="408" y="80" style="fill:#fff;" font-family="Arial" font-size="16px"> LearningModes</text>
+   <rect width="120" height="20" x="403" y="86" style="fill:#aea;stroke:black;"/>
+   <text width="120" height="20" x="408" y="100" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="120" height="20" x="403" y="106" style="fill:none;stroke:black;"/>
+   <text width="120" height="20" x="408" y="120" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="80" height="20" x="431" y="366" style="fill:#007;stroke:black;"/>
+   <text width="80" height="20" x="436" y="380" style="fill:#fff;" font-family="Arial" font-size="16px"> Materials</text>
+   <rect width="80" height="20" x="431" y="386" style="fill:#aea;stroke:black;"/>
+   <text width="80" height="20" x="436" y="400" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="80" height="20" x="431" y="406" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="420" style="fill:black;" font-family="Arial" font-size="16px">type</text>
+   <rect width="80" height="20" x="431" y="426" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="440" style="fill:black;" font-family="Arial" font-size="16px">thumbnail</text>
+   <rect width="80" height="20" x="431" y="446" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="460" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="80" height="20" x="431" y="466" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="480" style="fill:black;" font-family="Arial" font-size="16px">exp</text>
+   <rect width="80" height="20" x="431" y="486" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="500" style="fill:black;" font-family="Arial" font-size="16px">gold</text>
+   <rect width="80" height="20" x="431" y="506" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="436" y="520" style="fill:black;" font-family="Arial" font-size="16px">Checklist</text>
+   <rect width="130" height="20" x="91" y="355" style="fill:#007;stroke:black;"/>
+   <text width="130" height="20" x="96" y="369" style="fill:#fff;" font-family="Arial" font-size="16px"> SubChapter</text>
+   <rect width="130" height="20" x="91" y="375" style="fill:#aea;stroke:black;"/>
+   <text width="130" height="20" x="96" y="389" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="130" height="20" x="91" y="395" style="fill:none;stroke:black;"/>
+   <text width="130" height="20" x="96" y="409" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="130" height="20" x="91" y="415" style="fill:none;stroke:black;"/>
+   <text width="130" height="20" x="96" y="429" style="fill:black;" font-family="Arial" font-size="16px">thumbnail</text>
+   <rect width="130" height="20" x="91" y="435" style="fill:none;stroke:black;"/>
+   <text width="130" height="20" x="96" y="449" style="fill:black;" font-family="Arial" font-size="16px">FreeLabel</text>
+   <rect width="130" height="20" x="91" y="455" style="fill:none;stroke:black;"/>
+   <text width="130" height="20" x="96" y="469" style="fill:black;" font-family="Arial" font-size="16px">ProggressionBar</text>
+   <rect width="80" height="20" x="426" y="192" style="fill:#007;stroke:black;"/>
+   <text width="80" height="20" x="431" y="206" style="fill:#fff;" font-family="Arial" font-size="16px"> Subjects</text>
+   <rect width="80" height="20" x="426" y="212" style="fill:#aea;stroke:black;"/>
+   <text width="80" height="20" x="431" y="226" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="80" height="20" x="426" y="232" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="431" y="246" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="80" height="20" x="426" y="252" style="fill:none;stroke:black;"/>
+   <text width="80" height="20" x="431" y="266" style="fill:black;" font-family="Arial" font-size="16px">thumbnail</text>
+</svg>
